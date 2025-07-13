@@ -21,10 +21,8 @@ A modern word counting tool that analyzes your text in real-time with beautiful 
 
 ## 🚀 Getting Started
 
-### Live Demo
-[Try it now!](https://your-word-counter-demo.com)
 
 ### Local Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/word-counter.git
+git clone https://github.com/francis544x/word-counter.git
